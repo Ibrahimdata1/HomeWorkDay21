@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.inputCSS{
+  padding: 10px;
+}
+.fixedbutton {
+  position: fixed;
+  bottom: 0px;
+  right: 0px; 
+  margin: 20px;
+  padding: 10px;
+}
