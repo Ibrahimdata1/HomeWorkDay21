@@ -14,3 +14,12 @@
   margin: 20px;
   padding: 10px;
 }
+.darkmode{
+  background-color: #888;
+}
+.lightmode{
+  background-color: whitesmoke;
+}
+.fontColor{
+  color: orangered;
+}

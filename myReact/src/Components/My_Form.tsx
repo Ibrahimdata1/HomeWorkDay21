@@ -11,8 +11,8 @@ const My_Form =()=>{
     }
     return(
         <>
-            <h1>ควรดื่มน้ำวันละเท่าไร???</h1>
-            <h3>คำตอบคือ: {result} ML.</h3>
+            <h1 className="fonts">ควรดื่มน้ำวันละเท่าไร???</h1>
+            <h3 className="fonts">คำตอบคือ: {result} ML.</h3>
             <input type="number" onChange={clickWeight} placeholder="Insert Bodyweight(KG)" className="inputCSS"/>
             <button onClick={CalResult}>Calculate</button>
         </>
